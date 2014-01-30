@@ -1,29 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--
-  When updating your version of GWT, you should also update this DTD reference,
-  so that your app can take advantage of the latest GWT module capabilities.
--->
-<!DOCTYPE module PUBLIC "-//Google Inc.//DTD Google Web Toolkit 2.5.1//EN"
-  "http://google-web-toolkit.googlecode.com/svn/tags/2.5.1/distro-source/core/src/gwt-module.dtd">
-<module rename-to='stockwatcher'>
-  <!-- Inherit the core Web Toolkit stuff.                        -->
-  <inherits name='com.google.gwt.user.User'/>
+I AM CHANGING THIS FILE! MULTI_LINE EDITING IS AWESOME.											<?xml version="1.0" encodingI AM CHANGING THIS FILE! MULTI_LINE EDITING IS AWESOME.="UTF-8"?>
+											<!--
+		I AM CHANGING THIS FILE! MULTI_LINE EDITING IS AWESOME.									  When updating your version of GWT, you should also update this DTD reference,
+		I AM CHANGING THIS FILE! MULTI_LINE EDITING IS AWESOME.									  so that your app can take advantage of the latest GWT module capI AM CHANGING THIS FILE! MULTI_LINE EDITING IS AWESOME.abilities.
+											-->
+I AM CHANGING THIS FILE! MULTI_LINE EDITING IS AWESOME.											<!DOCTYPE module PUBLIC "-//Google Inc.//DTD Google Web Toolkit 2.5.1//EN"
+		I AM CHANGING THIS FILE! MULTI_LINE EDITING IS AWESOME.									  "http://google-web-toolkit.googlecode.com/svn/tags/2.5.1/distro-source/core/src/gwt-module.dtd">
+I AM CHANGING THIS FILE! MULTI_LINE EDITING IS AWESOME.											<module rename-to='stockwatcher'>
+		I AM CHANGING THIS FILE! MULTI_LINE EDITING IS AWESOME.									  <!-- Inherit the core Web Toolkit stuff.                        -->
+		I AM CHANGING THIS FILE! MULTI_LINE EDITING IS AWESOME.									  <inherits name='com.google.gwt.user.User'/>
 
-  <!-- Inherit the default GWT style sheet.  You can change       -->
-  <!-- the theme of your GWT application by uncommenting          -->
-  <!-- any one of the following lines.                            -->
-<!--   <inherits name='com.google.gwt.user.theme.clean.Clean'/> -->
-  <inherits name='com.google.gwt.user.theme.standard.Standard'/>
-  <!-- <inherits name='com.google.gwt.user.theme.chrome.Chrome'/> -->
-  <!-- <inherits name='com.google.gwt.user.theme.dark.Dark'/>     -->
+		I AM CHANGING THIS FILE! MULTI_LINE EDITING IS AWESOME.									  <!-- Inherit the default GWT style sheet.  You can change       -->
+		I AM CHANGING THIS FILE! MULTI_LINE EDITING IS AWESOME.									  <!-- the theme of your GWT application by uncommenting          -->
+		I AM CHANGING THIS FILE! MULTI_LINE EDITING IS AWESOME.									  <!-- any one of the following lines.                            -->
+I AM CHANGING THIS FILE! MULTI_LINE EDITING IS AWESOME.											<!--   <inherits name='com.google.gwt.user.theme.clean.Clean'/> -->
+		I AM CHANGING THIS FILE! MULTI_LINE EDITING IS AWESOME.									  <inherits name='com.google.gwt.user.theme.standard.Standard'/>
+		I AM CHANGING THIS FILE! MULTI_LINE EDITING IS AWESOME.									  <!-- <inherits name='com.google.gwt.user.theme.chrome.Chrome'/> -->
+		I AM CHANGING THIS FILE! MULTI_LINE EDITING IS AWESOME.									  <!-- <inherits name='com.google.gwt.user.theme.dark.Dark'/>     -->
 
-  <!-- Other module inherits                                      -->
+		I AM CHANGING THIS FILE! MULTI_LINE EDITING IS AWESOME.									  <!-- Other module inherits                                      -->
 
-  <!-- Specify the app entry point class.                         -->
-  <entry-point class='com.google.gwt.sample.stockwatcher.client.StockWatcher'/>
+		I AM CHANGING THIS FILE! MULTI_LINE EDITING IS AWESOME.									  <!-- Specify the app entry point class.                         -->
+		I AM CHANGING THIS FILE! MULTI_LINE EDITING IS AWESOME.									  <entry-point class='com.google.gwt.sample.stockwatcher.client.StockWatcher'/>
 
-  <!-- Specify the paths for translatable code                    -->
-  <source path='client'/>
-  <source path='shared'/>
+		I AM CHANGING THIS FILE! MULTI_LINE EDITING IS AWESOME.									  <!-- Specify the paths for translatable code                    -->
+		I AM CHANGING THIS FILE! MULTI_LINE EDITING IS AWESOME.									  <source path='client'/>
+		I AM CHANGING THIS FILE! MULTI_LINE EDITING IS AWESOME.									  <source path='shared'/>
 
-</module>
+I AM CHANGING THIS FILE! MULTI_LINE EDITING IS AWESOME.											</module>
